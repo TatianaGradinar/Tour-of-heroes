@@ -1,6 +1,9 @@
 nav {
   display: flex;
   justify-content: center;
+  align-items: center;
+  grid-gap: 20px;
+  gap: 20px;
 }
 
 h1 {
@@ -11,8 +14,7 @@ h1 {
 nav a {
   padding: 1rem;
   text-decoration: none;
-  margin-top: 5px;
-  margin: 15px;
+  margin-top: 10px;
   display: inline-block;
   background-color: #e8e8e8;
   color: #3d3d3d;
